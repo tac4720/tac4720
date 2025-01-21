@@ -58,8 +58,13 @@ int main(){
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tac4720)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tac4720&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="left">
+  <p> 
+    <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tac4720&layout=compact&show_icons=true&theme=tokyonight" />
+    <img alt="github stats" height="195px" src="https://github-readme-stats.vercel.app/api?username=tac472&heme=tokyonight&show_icons=ture" />
+  </p>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tac4720&theme=tokyonight" width="810px">
+  </p>
+</div>
 ---
