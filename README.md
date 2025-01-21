@@ -52,8 +52,6 @@ int main(){
 - 🛠 Pipe chaining (`|`) and IO redirections (`>`, `>>`, `<`)
 - 📟 Signal handling for Ctrl-C/Ctrl-D/Ctrl-\\
 - 🧩 Built-in commands (echo, cd, pwd, export, unset, env, exit)
-- 📂 History expansion with `!!` and `!n` syntax
-- Built with pure C, POSIX compliant
 - Collaborated with other students, leveraging Git for version control and improving teamwork and development skills.
 ---
 [![Demo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/demo-link)
