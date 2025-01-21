@@ -36,21 +36,27 @@ int main(){
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
----
 
 ## 🚀 Notable Projects
 
 ### 1. **minishell** [![C](https://img.shields.io/badge/C-100%25-success)]()
-- UNIX shell implementation with pipe and redirection support
+**Key Features**:
+- 🛠 Pipe chaining (`|`) and IO redirections (`>`, `>>`, `<`)
+- 📟 Signal handling for Ctrl-C/Ctrl-D/Ctrl-\\
+- 🧩 Built-in commands (echo, cd, pwd, export, unset, env, exit)
+- 📂 History expansion with `!!` and `!n` syntax
 - Built with pure C, POSIX compliant
 - Collaborated with other students, leveraging Git for version control and improving teamwork and development skills.
 ---
+[![Demo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/demo-link)
 
 ## 📈 GitHub Stats
 
