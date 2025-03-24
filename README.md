@@ -53,6 +53,11 @@ int main(){
 - 📟 Signal handling for Ctrl-C/Ctrl-D/Ctrl-\\
 - 🧩 Built-in commands (echo, cd, pwd, export, unset, env, exit)
 - Collaborated with other students, leveraging Git for version control and improving teamwork and development skills.
+
+Unix シェルの基本機能を再現した軽量なシェルプログラムです。C言語を用いてゼロから実装し、シェルの仕組みを理解しながら、プロセス管理やパイプ処理などの低レベルなシステムプログラミングを学ぶことを目的としました。また今回、標準で実装されている関数も学習目的で敢えて自作のものを使っております。もちろん終了時、実行時にメモリリークは起きないよう、Valgrindなどのツールを使用してチェックしております。
+
+このプロジェクトは2人で進めたため、モジュール化を徹底し、コマンド実行部分、Parser部分、Tokenizer部分に大きく分け、作業を分担しました。
+AST（抽象構文木）を用いた構造的なパーシングを導入し、複雑なコマンド入力に耐えられるようにしています。
 ---
 [![Demo](https://img.shields.io/badge/View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/demo-link)
 
